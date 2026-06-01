@@ -1,0 +1,6 @@
+{
+  "name": "EduAI Assistant",
+  "description": "An intelligent academic AI agent designed for BTech students. It parses semester syllabi, creates custom study schedules, and extracts key announcements and tasks from college WhatsApp groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
